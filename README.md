@@ -3,9 +3,10 @@ This project detects hand gestures using a webcam and translates them into text 
 
 
 Technologies Used
-Python – Core programming language
-OpenCV – For real-time webcam input and visualization
-MediaPipe – To detect and track hand landmarks
-TensorFlow/Keras – For the deep learning model
-NumPy – To handle array operations
-pyttsx3 – For text-to-speech conversio
+Python – Core programming language;
+OpenCV – For real-time webcam input and visualization;
+MediaPipe – To detect and track hand landmarks;
+TensorFlow/Keras – For the deep learning model;
+NumPy – To handle array operations;
+pyttsx3 – For text-to-speech conversion.
+
